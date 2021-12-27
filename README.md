@@ -2,7 +2,7 @@
 
 Visual Art design project
 
-An exhibition will be held at labor luzern on monday evening #rc3
+An exhibition will be held at labor luzern in kriens on wednesday 14:00 #rc3
 
 Project Page in Wiki: https://github.com/laborluzern/space/wiki/glitsch---Visual-Art-Design
 
